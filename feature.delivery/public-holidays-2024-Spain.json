@@ -1,0 +1,93 @@
+{
+  "product": "Spain Public Holidays 2024",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-01T12:00:00",
+      "endDate": "2024-01-01T12:00:00",
+      "source": "Government of Spain",
+      "product": "Spain Public Holidays 2024",
+      "style": "blue",
+      "description": "Celebration of the first day of the year"
+    },
+    {
+      "title": "Epiphany",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-06T12:00:00",
+      "endDate": "2024-01-06T12:00:00",
+      "source": "Government of Spain",
+      "product": "Spain Public Holidays 2024",
+      "style": "yellow",
+      "description": "Celebration of the arrival of the Three Kings"
+    },
+    {
+      "title": "Good Friday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-19T12:00:00",
+      "endDate": "2024-04-19T12:00:00",
+      "source": "Government of Spain",
+      "product": "Spain Public Holidays 2024",
+      "style": "purple",
+      "description": "Commemoration of Jesus Christ's crucifixion"
+    },
+    {
+      "title": "Labour Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-01T12:00:00",
+      "endDate": "2024-05-01T12:00:00",
+      "source": "Government of Spain",
+      "product": "Spain Public Holidays 2024",
+      "style": "green",
+      "description": "Celebration of workers' rights"
+    },
+    {
+      "title": "National Day of Spain",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-10-12T12:00:00",
+      "endDate": "2024-10-12T12:00:00",
+      "source": "Government of Spain",
+      "product": "Spain Public Holidays 2024",
+      "style": "red",
+      "description": "Commemoration of Christopher Columbus's landing in the Americas"
+    },
+    {
+      "title": "All Saints' Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-11-01T12:00:00",
+      "endDate": "2024-11-01T12:00:00",
+      "source": "Government of Spain",
+      "product": "Spain Public Holidays 2024",
+      "style": "orange",
+      "description": "Honoring all saints and martyrs"
+    },
+    {
+      "title": "Constitution Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-06T12:00:00",
+      "endDate": "2024-12-06T12:00:00",
+      "source": "Government of Spain",
+      "product": "Spain Public Holidays 2024",
+      "style": "teal",
+      "description": "Celebration of the Spanish Constitution"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-25T12:00:00",
+      "endDate": "2024-12-25T12:00:00",
+      "source": "Government of Spain",
+      "product": "Spain Public Holidays 2024",
+      "style": "red",
+      "description": "Celebration of the birth of Jesus Christ"
+    }
+  ]
+}
